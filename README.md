@@ -81,6 +81,3 @@ _“Automate everything, collaborate always, and keep learning!”_ ✨
 
 ***
 
-This profile showcases technical strengths, recent learning, and return-to-work readiness with an engaging and professional tone.[1]
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/14021644/75be6d7d-b728-4c62-815c-3b2ece060a68/Cloud_AWS_DevOps_Tejashree_Waghmode.pdf)
